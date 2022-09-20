@@ -4,7 +4,7 @@ contact_links:
     url: https://discord.gg/d5dubZ3
     about: If you need help with using pokecrystal, or just have general questions about it, ask in our Discord server!
   - name: Remove Issue Templates
-    url: ../../../tree/main/.github/ISSUE_TEMPLATE
+    url: https://www.github.com
     about: If this is a downstream repo and you would like to remove these issue templates or modify them, edit/delete the following files:
 
   
